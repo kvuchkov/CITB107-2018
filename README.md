@@ -1,2 +1,6 @@
-# CITB107-2018
-Repository for teaching CITB107: Programming at New Bulgarian University for 2018.
+# CITB107: Programming (2018)
+Dear students,
+
+In this repository I will maintain a current version of all course-related code and tips. It is divided in lab01 to 15. 
+
+
