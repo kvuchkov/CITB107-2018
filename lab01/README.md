@@ -34,7 +34,7 @@ There are many options to install Linux on your personal notebook/PC. You can tr
 
 ## Installing VS Code
 Assuming you are running Ubuntu:
-1. Download VS Code ```.deb``` package. Make sure you download 32 or 64-bit version matching your installation (probably 64-bit).
+1. Download VS Code ```.deb``` package from https://code.visualstudio.com/download. Make sure you download 32 or 64-bit version matching your installation (probably 64-bit).
 2. Double click the file. It should open it with Ubuntu Software Center and there is a button for installation.
 3. You can "Add to Favorites" the VS Code IDE to have it available in the side pane.
 4. You can call it from the terminal by:
