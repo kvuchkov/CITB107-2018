@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 This is the second graded homework for the course.
 
 Read carefully the problem descriptions and consult the example files for input and output format. Follow the format strictly, as the solutions are checked automatically. 
